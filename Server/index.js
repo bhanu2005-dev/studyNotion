@@ -45,7 +45,7 @@ app.use(
     //frontend url
     origin:[
       "http://localhost:3000",
-    // " https://studynotion-5-ac95.onrender.com"
+     "https://studynotion-5-ac95.onrender.com "
     ],
     credentials:true,
   })
