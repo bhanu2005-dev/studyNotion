@@ -14,7 +14,7 @@ if (process.env.BREVO_API_KEY) {
     body: JSON.stringify({
       sender: {
         name: "StudyNotion",
-        email: "YOUR_VERIFIED_SENDER_EMAIL",
+        email: "bhanutyagi2005@gmail.com",
       },
       to: [
         {
